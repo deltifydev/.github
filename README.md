@@ -1,1 +1,2 @@
-# .github
+# We are deltify.
+Launching soon!
